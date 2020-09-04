@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=parthpandyappp)
 
 
-_Computer Science & Engineering Sophomore_ at <b>Parul Institute of Engineering & Technology</b> (Location: Vadodara, Gujarat, India) I'm a <b> Full Stack (MERN) Developer</b>  🤓  <b>Pythoneer</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b> & <b>Software Development</b>  in a Dynamic Environment. 🧑🏻
+_Computer Science & Engineering Sophomore_ at <b>Parul Institute of Engineering & Technology</b> (Location: Vadodara, Gujarat, India) I'm a <b> Full Stack Developer</b> 🤓 | 🤓  <b>Pythoneer</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b> & <b>Software Development</b>  in a Dynamic Environment. 🧑🏻
 
 
 
@@ -18,24 +18,32 @@ _Computer Science & Engineering Sophomore_ at <b>Parul Institute of Engineering 
 - 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Open Source Project Development 
-- 📫 You can reach at: ranjan.avinash@hotmail.com 
+- 📫 You can reach at: parthpandyappp@gmail.com 
 - ⚡ Fun fact: Caffeine helps me Code.. ☕
 - 🎆 I'm Open for New Opportunities.
 
 
 ![Parth Pandya's Github Stats](https://github-readme-stats.vercel.app/api?username=parthpandyappp&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthpandyappp&layout=compact)](https://github.com/parthpandyappp)
 
-<!--
-**parthpandyappp/parthpandyappp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Trending Repositories 📖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/parthpandyappp/Classroom/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Classroom" />
+</a>
+<a href="https://github.com/parthpandyappp/StripURL">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=StripURL" />
+</a>
+<a href="https://github.com/parthpandyappp/Hire-Endeavors">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Hire-Endeavors" />
+</a>
+<a href="https://github.com/parthpandyappp/Mail-Me">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Mail-Me" />
+</a>
+<a href="https://github.com/parthpandyappp/Mail-Me">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Mail-Me" />
+</a>
+<a href="https://github.com/parthpandyappp/parthpandyappp.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=parthpandyappp.github.io" />
+</a>
