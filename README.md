@@ -32,12 +32,18 @@ _Computer Science & Engineering Sophomore_ at <b>Parul Institute of Engineering 
 <a href="https://github.com/parthpandyappp/Classroom/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Classroom" />
 </a>
+
+
 <a href="https://github.com/parthpandyappp/StripURL">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=StripURL" />
 </a>
+
+
 <a href="https://github.com/parthpandyappp/Hire-Endeavors">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Hire-Endeavors" />
 </a>
+
+
 <a href="https://github.com/parthpandyappp/Mail-Me">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Mail-Me" />
 </a>
