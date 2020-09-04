@@ -11,6 +11,7 @@
 
 _Computer Science & Engineering Sophomore_ at <b>Parul Institute of Engineering & Technology</b> (Location: Vadodara, Gujarat, India) I'm a <b> Full Stack Developer</b> 🤓 | 🤓  <b>Pythoneer</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b> & <b>Software Development</b>  in a Dynamic Environment. 🧑🏻
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 - 🎪 [Visual Portfolio](https://parthpandyappp.github.io/)
@@ -23,28 +24,9 @@ _Computer Science & Engineering Sophomore_ at <b>Parul Institute of Engineering 
 - 🎆 I'm Open for New Opportunities.
 
 
+## Activity & stats
 ![Parth Pandya's Github Stats](https://github-readme-stats.vercel.app/api?username=parthpandyappp&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthpandyappp&layout=compact)](https://github.com/parthpandyappp)
 
 
-### Trending Repositories 📖
-
-<a href="https://github.com/parthpandyappp/Classroom/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Classroom" />
-</a>
-
-
-<a href="https://github.com/parthpandyappp/StripURL">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=StripURL" />
-</a>
-
-
-<a href="https://github.com/parthpandyappp/Hire-Endeavors">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Hire-Endeavors" />
-</a>
-
-
-<a href="https://github.com/parthpandyappp/Mail-Me">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Mail-Me" />
-</a>
-
+ 
