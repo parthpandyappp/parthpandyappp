@@ -41,6 +41,4 @@ _Computer Science & Engineering Sophomore_ at <b>Parul Institute of Engineering 
 <a href="https://github.com/parthpandyappp/Mail-Me">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=Mail-Me" />
 </a>
-<a href="https://github.com/parthpandyappp/parthpandyappp.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=parthpandyappp&repo=parthpandyappp.github.io" />
-</a>
+
