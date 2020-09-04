@@ -5,8 +5,10 @@
 <a href="https://www.instagram.com/parth_8_0_9_/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/parth-pandya-4215b0152//"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=avinashkranjan)
+![Profile Views](https://komarev.com/ghpvc/?username=parthpandyappp)
 _Computer Science & Engineering Sophomore_ at <b>Parul Institute of Engineering & Technology</b> (Location: Vadodara, Gujarat, India) I'm a <b> Full Stack (MERN) Developer</b>  🤓  <b>Pythoneer</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b> & <b>Software Development</b>  in a Dynamic Environment. 🧑🏻
+
+
 
 - 🎪 [Visual Portfolio](https://parthpandyappp.github.io/)
 - 🔭 I’m currently working as Freelancer 💻
