@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=parthpandyappp)
 
 
-#####  A sopohomore pursuing a degree in Computer Science & Engineering. A developer who enjoys learning, exploring & doing JavaScript & Python. Currently learning to design apps using React front-end.
+#####  A sopohomore pursuing a degree in Computer Science & Engineering 💻. A developer who enjoys learning, exploring & doing JavaScript & Python✨. Currently learning to design apps using React front-end. I write blogs🗒️  on this [Medium](http://medium.com/@parthpandyappp). Exploring new things and making best out of'em :dizzy: 
 
 
 ## Activity & stats
