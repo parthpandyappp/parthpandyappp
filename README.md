@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=parthpandyappp)
 
 
-
+#####  A sopohomore pursuing a degree in Computer Science & Engineering. A developer who enjoys learning, exploring & doing JavaScript & Python. Currently learning to design apps using React front-end.
 
 
 ## Activity & stats
@@ -29,6 +29,7 @@
   <img alt="C" src="https://img.shields.io/badge/-C-4F46E5?style=flat-square&logo=C&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-4F46E5?style=flat-square&logo=C&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-065F46?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Django REST" src="https://img.shields.io/badge/-Django REST-065F46?style=flat-square&logo=django&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-065F46?style=flat-square&logo=flask&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
