@@ -4,12 +4,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=parthpandyappp)
 
 
-#####  A sopohomore pursuing a degree in Computer Science & Engineering 💻. A developer who enjoys learning, exploring & doing JavaScript & Python✨. Currently learning to design apps using React front-end. I write blogs🗒️  on this [Medium](http://medium.com/@parthpandyappp). Exploring new things and making best out of'em :dizzy: 
+A sopohomore pursuing a degree in Computer Science & Engineering 💻. A developer who enjoys learning, exploring & doing JavaScript & Python✨. Currently learning to design apps using React front-end. I write blogs🗒️  on this [Medium](http://medium.com/@parthpandyappp). Exploring new things and making best out of'em :dizzy: 
 
 
-## Activity & stats
-![Parth Pandya's Github Stats](https://github-readme-stats.vercel.app/api?username=parthpandyappp&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthpandyappp&layout=compact)](https://github.com/parthpandyappp)
 
 
 <h3>Things I code with</h3>
